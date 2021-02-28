@@ -103,4 +103,10 @@ function myFunction() {
 
 S'han revisat les coordenades per cada element del llistat, en cas que els resultats obtinguts per l'script no concordin o faltin s'han recercat manualment. S'han eliminat les entrades les quals no s'ha obtingut ubicació.
 
+TODO: 
+- [] Script que obtingui mitjançant XML _l'enllaç a Wikipedia_ per cada entrada
+- [] Un cop disposable l'enllaç a Wikipedia estirar: _url del fitxer .jpg de la imatge principal_, _1r paràgraf de l'entrada_
+- [] Base de dades amb altres fonts. 
+
+
 
