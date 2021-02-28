@@ -69,7 +69,7 @@ Les dades s'han netejat i preparat utilitzant el mateix Google Sheets, obtenint-
 La geocodificació de les ubicacions s'ha fet mitjançant un script de Google Apps Script que utilitza les cadenes de text de cada cel·la de la 1a columna del fitxer, i retorna les coordenades del primer resultat obté de Google Maps per cada cel·la.
 
 Script de geocodificació:
-```
+```javascript
 function myFunction() {
   var sheet = SpreadsheetApp.getActiveSheet();
    
