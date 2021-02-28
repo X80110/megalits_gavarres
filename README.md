@@ -10,6 +10,8 @@ La pàgina web utilitza la llibreria Leaflet.js per ubicar els marcadors al mapa
 
 Les dades i algunes configuracions s'obtenen d'un fitxer [Google Sheets](https://docs.google.com/spreadsheets/d/1Rrh6RR9WYCzp7R3_ZSvWOFK1mARYhLokK6t8zVz8MEs/edit#gid=0) i mitjançant l'API es connecta al fitxer. 
 
+L'estructura del projecte està basada en el repositori [Leaflet Storymaps](https://github.com/HandsOnDataViz/leaflet-storymaps-with-google-sheets)
+
 ## Dades dels megàlits i la seva ubicació
 Les dades s'han obtingut mitjançant l'ús de tecnologia OCR per extreure el llistat de dòlmens de les Gavarres que es disposa aldocument "[Els Monuments Megalítics](https://issuu.com/ddgi/docs/monuments_megalitics)" de la Revista Quadern de Girona publicat per la Diputació de Girona l'any 1992.
 
