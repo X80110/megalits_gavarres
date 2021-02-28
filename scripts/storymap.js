@@ -388,7 +388,7 @@ $(window).on('load', function() {
       <div id='space-at-the-bottom'> \
         <a href='#top'>  \
           <i class='fa fa-chevron-up'></i></br> \
-          <small>Top</small>  \
+          <small>Torna a l'inici</small>  \
         </a> \
       </div> \
     ");
